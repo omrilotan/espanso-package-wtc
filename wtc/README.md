@@ -2,7 +2,7 @@
 package_name: "wtc"
 package_title: "What the Commit"
 package_desc: "Get a hilarious random commit message"
-package_version: "1.0.0"
+package_version: "1.0.1"
 package_author: "omrilotan"
 package_repo: "https://github.com/omrilotan/espanso-package-wtc"
 ---
